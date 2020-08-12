@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\ViewModels\Console;
+namespace CodicaStudio\ViewModels\Console;
 
 use Illuminate\Console\GeneratorCommand;
 use Illuminate\Support\Str;

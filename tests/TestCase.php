@@ -1,11 +1,11 @@
 <?php
 
-namespace Spatie\ViewModels\Tests;
+namespace CodicaStudio\ViewModels\Tests;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\View;
 use Orchestra\Testbench\TestCase as OrchestraTestCase;
-use Spatie\ViewModels\Providers\ViewModelsServiceProvider;
+use CodicaStudio\ViewModels\Providers\ViewModelsServiceProvider;
 use Symfony\Component\HttpFoundation\Response;
 
 class TestCase extends OrchestraTestCase

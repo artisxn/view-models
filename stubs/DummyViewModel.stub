@@ -2,7 +2,7 @@
 
 namespace DummyNamespace;
 
-use Spatie\ViewModels\ViewModel;
+use CodicaStudio\ViewModels\ViewModel;
 
 class DummyClass extends ViewModel
 {

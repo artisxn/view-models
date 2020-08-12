@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\ViewModels\Tests;
+namespace CodicaStudio\ViewModels\Tests;
 
 use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\File;

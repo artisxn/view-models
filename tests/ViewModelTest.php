@@ -1,13 +1,13 @@
 <?php
 
-namespace Spatie\ViewModels\Tests;
+namespace CodicaStudio\ViewModels\Tests;
 
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Response;
 
 class ViewModelTest extends TestCase
 {
-    /** @var \Spatie\ViewModels\ViewModel */
+    /** @var \CodicaStudio\ViewModels\ViewModel */
     protected $viewModel;
 
     protected function setUp(): void

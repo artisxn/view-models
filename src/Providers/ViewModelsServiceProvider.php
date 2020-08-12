@@ -1,9 +1,9 @@
 <?php
 
-namespace Spatie\ViewModels\Providers;
+namespace CodicaStudio\ViewModels\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use Spatie\ViewModels\Console\ViewModelMakeCommand;
+use CodicaStudio\ViewModels\Console\ViewModelMakeCommand;
 
 class ViewModelsServiceProvider extends ServiceProvider
 {

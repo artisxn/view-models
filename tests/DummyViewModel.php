@@ -1,8 +1,8 @@
 <?php
 
-namespace Spatie\ViewModels\Tests;
+namespace CodicaStudio\ViewModels\Tests;
 
-use Spatie\ViewModels\ViewModel;
+use CodicaStudio\ViewModels\ViewModel;
 use stdClass;
 
 class DummyViewModel extends ViewModel
